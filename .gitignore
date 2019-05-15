@@ -1,0 +1,16 @@
+*.exe
+data/*
+generate-gap-instances/*.txt
+generate-python-instances/*.py
+generate-gap-instances/instances/
+generate-gap-instances/instances/*
+simplify-constraints/instances/*
+constants-generate-gap-instances/constants-instances
+constants-generate-gap-instances/constants-instances/*
+
+refutation/refutation
+simplify-constraints/simplify-constraints
+constants-generate-gap-instances/constants-generate-gap-instances
+generate-python-instances/generate-python-instances
+generate-python-instances/generate-py
+generate-gap-instances/generate-gap-instances
